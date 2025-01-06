@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programming\\Multiframe\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D49736-2FB4-16D2-38CC-A1A8A42A7D33}|CppProj.vcxproj|C:\\Programming\\Multiframe\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D49736-2FB4-16D2-38CC-A1A8A42A7D33}|CppProj.vcxproj|C:\\Programming\\Multiframe\\src\\multiframe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 241,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "multiframe.cpp",
+              "DocumentMoniker": "C:\\Programming\\Multiframe\\src\\multiframe.cpp",
+              "RelativeDocumentMoniker": "..\\src\\multiframe.cpp",
+              "ToolTip": "C:\\Programming\\Multiframe\\src\\multiframe.cpp",
+              "RelativeToolTip": "..\\src\\multiframe.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T20:16:13.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Programming\\Multiframe\\src\\main.cpp",
+              "RelativeDocumentMoniker": "..\\src\\main.cpp",
+              "ToolTip": "C:\\Programming\\Multiframe\\src\\main.cpp",
+              "RelativeToolTip": "..\\src\\main.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T20:16:11.195Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
